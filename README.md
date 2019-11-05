@@ -31,7 +31,7 @@ Ce cours se déroule dans le cadre du [master journalisme et médias numériques
 ## Références
 
 ### Jour 1
-* à venir
+* [Dear data](http://www.dear-data.com/theproject), Giorgia Lupi et Stefanie Postavec.
 
 ### Jour 2
 * à venir aussi
