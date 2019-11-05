@@ -1,0 +1,28 @@
+---
+title: "Rapport aux sources et dataliteracy"
+subtitle: "3 : la production de l'opinion"
+author: "Sylvain Lapoix"
+date: "MJMN - 15/11/2019"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url("https://media.giphy.com/media/1jqTrPcpWUoqk/giphy.gif")
+class: center, top, inverse
+
+# Présentation en cours d'assemblage ...
+
+---
+
+class: inverse, center, middle
+
+# Merci !
+
+
+Contact : [sylvainlapoix@gmail.com](mailto:sylvainlapoix@gmail.com) ou via WhatsApp.
+
